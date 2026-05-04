@@ -30,23 +30,23 @@
 
 **Languages**
 
-* JavaScript • Python • PHP • Java • C
+JavaScript • Python • PHP • Java • C
 
 **Frontend**
 
-* HTML • CSS • React
+HTML • CSS • React
 
 **Backend**
 
-* Node.js • Express • Flask
+Node.js • Express • Flask
 
 **Databases**
 
-* MySQL • MongoDB • SQLite
+MySQL • MongoDB • SQLite
 
 **Tools & Others**
 
-* Git • Linux • Docker • Nginx • Postman
+Git • Linux • Docker • Nginx • Postman
 
 ---
 
@@ -70,7 +70,7 @@ I like turning ideas into working systems — fast, simple, effective.
 
 * 🌍 Portfolio: *www.gpmartello.com*
 * 📧 Contact: *vannimart74@gmail.com*
-* 🧑‍💻 GitHub: *you-are-here*
+* 🧑‍💻 GitHub: *you are here*
 
 ---
 
