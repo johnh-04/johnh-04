@@ -142,9 +142,9 @@ I like turning ideas into working systems by combining software, electronics, an
 
 ## 🌐 Links
 
-- 🌍 Portfolio: www.gpmartello.com
-- 📧 Email: vannimart74@gmail.com
-- 🧑‍💻 GitHub: you are here
+- 🌍 Portfolio: *www.gpmartello.com*
+- 📧 Email: *vannimart74@gmail.com*
+- 🧑‍💻 GitHub: *you are here*
 
 ---
 
