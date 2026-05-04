@@ -46,7 +46,7 @@ MySQL • MongoDB • SQLite
 
 **Tools & Others**
 
-Git • Linux • Docker • Nginx • Postman
+Arduino • Linux • Git • Docker • Nginx • Postman
 
 ---
 
