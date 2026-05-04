@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-👋 Hey! I'm **Giovanni Pio Martello**, a computer science & automation engineering student and developer focused on building intelligent systems at the intersection of software, AI, and space technologies.
+👋 Hey! I'm **Giovanni Pio Martello**, a Computer Science & Automation Engineering student and developer focused on building intelligent systems at the intersection of software, AI, and space technologies.
 
 💻 Freelance Web Developer • 🤖 AI & Robotics Enthusiast • 🌌 Space Systems Explorer
 
@@ -8,53 +8,127 @@
 
 ## 🧠 What I'm Into
 
-* 🤖 Artificial Intelligence & Intelligent Systems
-* 🌌 Space Tech & Astrophysics
-* 📡 Telecommunications & Satellite Systems
-* 💻 Web Development & Full-Stack Apps
-* 🔌 Electronics & Embedded Systems
-* 🧪 Quantum Computing (learning & exploring)
+- 🤖 Artificial Intelligence
+- 🌌 Space Technologies & Astrophysics Applications
+- 📡 Telecommunications & Satellite Systems
+- 💻 Full-Stack Web Development
+- 🔌 Embedded Systems & Electronics
+- 🌐 IoT (Internet of Things)
+- ⚡ Edge Computing & Distributed Intelligence
+- 🧪 Quantum Computing
+- ⚙️ Automation & Intelligent Control Systems
 
 ---
 
 ## 🔭 Currently
 
-* 📚 Pursuing a BSc in Computer Science & Automation Engineering @ POLIBA
-* 🧑‍💻 Building real-world web projects for clients
-* 🚀 Exploring AI + space + robotics intersection
-* 🛠️ Improving hard & soft skills
+- 📚 Pursuing BSc in Computer Science & Automation Engineering @ POLIBA
+- 🧑‍💻 Building real-world web projects for clients
+- 🚀 Exploring AI × Space × Robotics integration
+- 🛠️ Improving engineering, software, and system design skills
 
 ---
 
 ## ⚒️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
+JavaScript • Python • PHP • Java • C • SQL
 
-JavaScript • Python • PHP • Java • C
+### 🌐 Web Development
+HTML • CSS • React • Node.js • Express • Flask
+WebSockets • REST APIs • CRUD Systems • Client-Server Architecture
 
-**Frontend**
+### 🗄️ Databases
+MySQL • MongoDB • PL/SQL
 
-HTML • CSS • React
+### ⚙️ Tools & Platforms
+Linux • Git • Docker • Nginx • Postman • Packet Tracer • Multisim • Microsoft Office • Sony Vegas
 
-**Backend**
+### 🤖 Robotics & Embedded Systems
+Arduino • Choregraphe (SoftBank Robotics)
 
-Node.js • Express • Flask
+---
 
-**Databases**
+## 🧠 Engineering & Computer Science Foundations
 
-MySQL • MongoDB • SQLite
+### 📐 Mathematics & Foundations
+- Differential & Integral Calculus (single & multivariable)
+- Linear Algebra (matrices, vectors, vector spaces)
+- Differential Equations (ODE)
 
-**Tools & Others**
+### 🔁 Signal Processing & Transforms
+- Fourier Transform (frequency domain analysis)
+- Laplace Transform (continuous-time systems)
+- Z Transform (discrete-time systems, ADC/DAC systems)
 
-Arduino • Linux • Git • Docker • Nginx • Postman
+### 📊 Signals & Systems
+- LTI systems
+- Impulse response
+- Convolution
+- Sampling & Quantization
+
+### 🎲 Probability & Statistics
+- Probability theory fundamentals
+- Random variables & stochastic processes
+- Probability distributions
+
+### 💻 Computer Science Fundamentals
+- Algorithms & Data Structures
+- Object-Oriented Programming (OOP)
+- Machine Learning
+- Operating Systems fundamentals
+- Computer Architecture
+- Distributed Systems
+- Concurrent Computing
+
+### 🌐 Networking & Security
+- Computer Networks design & management
+- TCP/IP & Internet protocols
+- Cybersecurity fundamentals
+- Digital communication systems
+- Analog & digital modulation techniques
+
+### 🔌 Electronics & Physics
+- Electromagnetism fundamentals
+- Wave propagation
+- Electronics principles
+
+---
+
+## ⚙️ Core Automation Engineering Knowledge
+
+- Mechanical systems fundamentals
+- Electrical machines (transformers, synchronous & asynchronous motors)
+- Control systems fundamentals
+- Industrial automation systems
+- Petri Nets & automata theory
+- PLC programming basics
+
+---
+
+## 🧠 Soft Skills
+
+- 🧩 Problem Solving & Analytical Thinking
+- 🧠 Systems Thinking
+- ⚡ Fast Learning & Self-Study
+- 🧭 Decision Making under constraints
+- 🤝 Teamwork & Collaboration
+- 🗣️ Technical Communication
+- ⏱️ Time Management & Organization
+- 🔍 Attention to Detail
+- 🚀 Entrepreneurial mindset
 
 ---
 
 ## 💼 Work
 
-💻 I build **custom websites for clients** as a freelancer.
+💻 I build **custom websites and web applications** as a freelancer.
 
-From simple landing pages to full-stack web apps — I focus on clean design, performance, and real usability.
+From landing pages to full-stack systems, I focus on:
+- clean architecture
+- performance
+- usability
+- scalability
 
 ---
 
@@ -62,15 +136,15 @@ From simple landing pages to full-stack web apps — I focus on clean design, pe
 
 > "If it is worth doing, it is worth doing right."
 
-I like turning ideas into working systems — fast, simple, effective.
+I like turning ideas into working systems by combining software, electronics, and intelligent logic.
 
 ---
 
 ## 🌐 Links
 
-* 🌍 Portfolio: *www.gpmartello.com*
-* 📧 Contact: *vannimart74@gmail.com*
-* 🧑‍💻 GitHub: *you are here*
+- 🌍 Portfolio: www.gpmartello.com
+- 📧 Email: vannimart74@gmail.com
+- 🧑‍💻 GitHub: you are here
 
 ---
 
