@@ -37,7 +37,7 @@ Freelance web developer building custom websites and web applications with scala
 JavaScript • Python • PHP • Java • C • MATLAB • SQL
 
 ### 🌐 Web Development
-HTML • CSS • Node.js • Express
+HTML • CSS • Node.js • Express  
 REST APIs • WebSockets • CRUD • Client-Server Architecture
 
 ### 🗄️ Databases
