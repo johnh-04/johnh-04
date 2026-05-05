@@ -1,6 +1,8 @@
 # 🚀 About Me
 
-👋 Hey! I'm **Giovanni Pio Martello**, a Computer Science & Automation Engineering student and developer focused on building intelligent systems at the intersection of software, AI, and space technologies.
+👋 Hey! I'm **Giovanni Pio Martello**, a Computer Science & Automation Engineering student focused on software
+systems, AI, and space technologies.
+Freelance web developer building custom websites and web applications with scalable architecture and performance-oriented design.
 
 💻 Freelance Web Developer • 🤖 AI & Robotics Enthusiast • 🌌 Space Systems Explorer
 
@@ -32,20 +34,20 @@
 ## ⚒️ Tech Stack
 
 ### 💻 Programming Languages
-JavaScript • Python • PHP • Java • C • SQL
+JavaScript • Python • PHP • Java • C • MATLAB • SQL
 
 ### 🌐 Web Development
 HTML • CSS • React • Node.js • Express • Flask
-WebSockets • REST APIs • CRUD Systems • Client-Server Architecture
+REST APIs • WebSockets • CRUD • Client-Server Architecture
 
 ### 🗄️ Databases
 MySQL • MongoDB • PL/SQL
 
 ### ⚙️ Tools & Platforms
-Linux • Git • Docker • Nginx • Postman • Packet Tracer • Multisim • Microsoft Office • Sony Vegas
+Linux • Git • Docker • Packet Tracer • Multisim
 
 ### 🤖 Robotics & Embedded Systems
-Arduino • Choregraphe (SoftBank Robotics)
+Arduino • Embedded Systems • IoT
 
 ---
 
@@ -109,14 +111,11 @@ Arduino • Choregraphe (SoftBank Robotics)
 ## 🧠 Soft Skills
 
 - 🧩 Problem Solving & Analytical Thinking
-- 🧠 Systems Thinking
-- ⚡ Fast Learning & Self-Study
-- 🧭 Decision Making under constraints
-- 🤝 Teamwork & Collaboration
+- ⚡ Fast Learning & Self-Directed Study
+- 🤝 Leadership & Team Collaboration
+- 🚀 Entrepreneurial Mindset
 - 🗣️ Technical Communication
-- ⏱️ Time Management & Organization
-- 🔍 Attention to Detail
-- 🚀 Entrepreneurial mindset
+- 🔍 Teaching & Mentoring
 
 ---
 
