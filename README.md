@@ -87,7 +87,7 @@ Arduino • Embedded Systems • IoT
 - Computer Networks design & management
 - TCP/IP & Internet protocols
 - Cybersecurity fundamentals
-- Digital communication systems
+- Digital Communication systems
 - Analog & digital modulation techniques
 
 ### 🔌 Electronics & Physics
