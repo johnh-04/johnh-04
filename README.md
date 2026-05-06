@@ -44,7 +44,7 @@ REST APIs • WebSockets • CRUD • Client-Server Architecture
 MySQL • MongoDB • PL/SQL
 
 ### ⚙️ Tools & Platforms
-Linux • Git • Docker • Packet Tracer • Multisim
+Linux • Git • Docker • Simulink • Packet Tracer • Multisim
 
 ### 🤖 Robotics & Embedded Systems
 Arduino • Embedded Systems • IoT
